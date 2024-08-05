@@ -13,7 +13,6 @@ I'm a Cloud and DevOps Engineer with a passion for automation and scalable infra
 - **Scripting**: Python 🐍🔧
 
  𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬🚀
- 
  𝐇𝐢𝐠𝐡𝐥𝐲 𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐚𝐧𝐝 𝐒𝐞𝐜𝐮𝐫𝐞 𝐕𝐏𝐂 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐨𝐧 𝐀𝐖𝐒
 - 🌐 Designed and deployed a production-ready VPC architecture to host web servers in a secure and highly available environment.
 - 🚀 Configured and launched EC2 instances in private subnets and deployed a web application on them.
